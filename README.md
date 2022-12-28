@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jang Jun-Ha a newbie programmer  👋
 
 <!--
 **jun-ha/jun-ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
