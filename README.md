@@ -1,4 +1,5 @@
-### Jang Jun-Ha a newbie programmer  👋
+### Jang Jun-Ha
+### Newbie programmer
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yy4124)](https://solved.ac/yy4124/)
 
 <!--
