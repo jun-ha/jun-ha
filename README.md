@@ -1,4 +1,5 @@
 ### Jang Jun-Ha a newbie programmer  👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yy4124)](https://solved.ac/yy4124/)
 
 <!--
 **jun-ha/jun-ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
