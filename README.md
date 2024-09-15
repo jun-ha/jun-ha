@@ -9,6 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun-ha&layout=compact&theme=radical)
 
 # Experiences  
+- 현대자동차그룹 Softeer 부트캠프 4기, 백엔드 - 최우수 소프티어(1st) (2024.07 ~ 2024.08)
 <!--
 **jun-ha/jun-ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
