@@ -1,11 +1,14 @@
-### Jun Ha, Chang 
+# Jun Ha, Chang 
+A Sound Code in a Sound Body 💪
 
-# Projects
-## 현대자동차그룹 신차 출시 이벤트
+안녕하세요👋 경험에 의한 성장을 추구하는 백엔드 개발자 장준하입니다
+
+## Projects
+[현대자동차그룹 신차 출시 이벤트]
 
 [현대자동차그룹 신차 출시 이벤트](https://github.com/softeerbootcamp4th/Team4-newCar-socket-app-BE) - 현대자동차 그룹 신차출시 이벤트
 
-## 풋살 파인더 
+### 풋살 파인더 
 서울/경기 모든 소셜 풋살 매치 정보를 한눈에
 - [Futsal-Finder](https://github.com/FutsalFinder)
 
