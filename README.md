@@ -8,6 +8,8 @@
 # Experiences  
 - 현대자동차그룹 Softeer 부트캠프 4기, 백엔드 - 최우수 소프티어(1st) (2024.07 ~ 2024.08)
 
+---
+
 🏅BOJ Solved Rank
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yy4124)](https://solved.ac/yy4124/)
