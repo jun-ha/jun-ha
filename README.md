@@ -1,20 +1,20 @@
 # Jun Ha, Chang 
 A Sound Code in a Sound Body 💪
 
-안녕하세요👋 경험에 의한 성장을 추구하는 백엔드 개발자 장준하입니다
-
 ## Projects
 [현대자동차그룹 신차 출시 이벤트]
 
-[현대자동차그룹 신차 출시 이벤트](https://github.com/softeerbootcamp4th/Team4-newCar-socket-app-BE) - 현대자동차 그룹 신차출시 이벤트
+[Socket-App](https://github.com/softeerbootcamp4th/Team4-newCar-socket-app-BE)
+[Web-App](https://github.com/softeerbootcamp4th/Team4-newCar-web-app-BE)
 
-### 풋살 파인더 
+
+[풋살 파인더] 
 서울/경기 모든 소셜 풋살 매치 정보를 한눈에
 - [Futsal-Finder](https://github.com/FutsalFinder)
 
 &nbsp;
 
-# Experiences  
+## Experiences  
 - 현대자동차그룹 Softeer 부트캠프 4기, 백엔드 - 최우수 소프티어(1st) (2024.07 ~ 2024.08)
 
 &nbsp;
