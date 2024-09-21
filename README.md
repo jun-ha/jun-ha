@@ -4,8 +4,9 @@ A Sound Code in a Sound Body 💪
 ## Projects
 [현대자동차그룹 신차 출시 이벤트]
 
-[Socket-App](https://github.com/softeerbootcamp4th/Team4-newCar-socket-app-BE)
-[Web-App](https://github.com/softeerbootcamp4th/Team4-newCar-web-app-BE)
+- [Socket-App](https://github.com/softeerbootcamp4th/Team4-newCar-socket-app-BE)
+
+- [Web-App](https://github.com/softeerbootcamp4th/Team4-newCar-web-app-BE)
 
 
 [풋살 파인더] 
