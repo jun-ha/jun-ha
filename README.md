@@ -4,14 +4,14 @@ A Sound Code in a Sound Body 💪
 ## Projects
 [현대자동차그룹 신차 출시 이벤트]
 
-- [Socket-App](https://github.com/softeerbootcamp4th/Team4-newCar-socket-app-BE)
+- [Socket-App](https://github.com/softeerbootcamp4th/Team4-newCar-socket-app-BE) : 웹소켓을 활용한 실시간 레이싱 게임 및 기대평 기능
 
-- [Web-App](https://github.com/softeerbootcamp4th/Team4-newCar-web-app-BE)
+- [Web-App](https://github.com/softeerbootcamp4th/Team4-newCar-web-app-BE) : 선착순 이벤트 동시성 제어 및 어드민 기능
 
 
 [풋살 파인더] 
-서울/경기 모든 소셜 풋살 매치 정보를 한눈에
-- [Futsal-Finder](https://github.com/FutsalFinder)
+
+- [Futsal-Finder](https://github.com/FutsalFinder) : 서울/경기 모든 소셜 풋살 매치 정보를 한눈에
 
 &nbsp;
 
