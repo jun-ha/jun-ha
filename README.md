@@ -1,4 +1,9 @@
-### Jang Jun-Ha
+### Jun Ha, Chang 
+
+# Projects
+[현대자동차 그룹 신차출시 이벤트](https://github.com/softeerbootcamp4th/Team4-newCar-socket-app-BE)
+[Futsal-Finder](https://github.com/FutsalFinder)
+
 
 🏅BOJ Solved Rank
 
