@@ -13,7 +13,7 @@ A Sound Code in a Sound Body 💪
 
 [풋살 파인더] 
 
-- [Futsal-Finder](https://github.com/FutsalFinder) : 서울/경기 모든 소셜 풋살 매치 정보를 한눈에 - https://futsalfinder.co.kr 
+- [Futsal-Finder](https://github.com/FutsalFinder/BackEnd) : 서울/경기 모든 소셜 풋살 매치 정보를 한눈에 - https://futsalfinder.co.kr 
 
 &nbsp;
 
