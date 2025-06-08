@@ -15,10 +15,10 @@ A Sound Code in a Sound Body 💪
 
 - [Futsal-Finder](https://github.com/FutsalFinder/BackEnd) : 서울/경기 모든 소셜 풋살 매치 정보를 한눈에 - https://futsalfinder.co.kr 
 
-&nbsp;
-
 [코드잇 스프린트]
-- [일정관리 프로젝트](https://github.com/ICan-5/ICan-Backend)
+- [일정관리 프로젝트](https://github.com/ICan-5/ICan-Backend
+
+&nbsp;
 
 ## Experiences  
 - 현대자동차그룹 Softeer 부트캠프 4기, 백엔드 - 최우수 소프티어(1st) (2024.07 ~ 2024.08)
